@@ -1,0 +1,23 @@
+Kolb-derived labor rate: 4.84 labor-days/m3 (per-temple range 2.58-12.77)
+
+Total construction labor (rate 4.8 LD/m3):
+  median ahu (297 m3)              1436 labor-days
+  upper-tercile (1000 m3)          4836 labor-days
+  largest Heki'i 1 (4629 m3)      22385 labor-days
+
+Per construction EPISODE, person-days/household (Abrams 1994 in-scope familial range: 24-160 pd/hh):
+  N=10 hh:  median ahu  144 | upper-tercile  484 pd/hh
+  N=15 hh:  median ahu   96 | upper-tercile  322 pd/hh
+  N=20 hh:  median ahu   72 | upper-tercile  242 pd/hh
+
+Annual diversion FRACTION during a construction burst (budget 285 pd/hh/yr; Erasmus ~0.10, Abrams peak ~0.40, bracket [0.20,0.50]):
+  median ahu:
+    N=10  T=1:0.50  T=2:0.25  T=3:0.17
+    N=15  T=1:0.34  T=2:0.17  T=3:0.11
+    N=20  T=1:0.25  T=2:0.13  T=3:0.08
+  upper-tercile ahu (major episode):
+    N=10  T=1:1.70  T=2:0.85  T=3:0.57
+    N=15  T=1:1.13  T=2:0.57  T=3:0.38
+    N=20  T=1:0.85  T=2:0.42  T=3:0.28
+
+Lifetime-averaged fraction (median ahu, N=15, ~3x initial labor over 300 yr): 0.0034  (negligible)

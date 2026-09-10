@@ -1,0 +1,6 @@
+python 3.12.3 Linux-6.17.0-40-generic-x86_64-with-glibc2.39
+numpy 2.4.3
+scipy 1.17.1
+sympy 1.14.0
+matplotlib 3.10.8
+networkx 3.6.1

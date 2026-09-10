@@ -1,0 +1,344 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 960 910" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+
+  
+  <defs>
+    <marker id="aT" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#B5563F"></path>
+    </marker>
+    <marker id="aB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#2E5C8A"></path>
+    </marker>
+    <marker id="aBs" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M10,0 L0,5 L10,10 Z" fill="#2E5C8A"></path>
+    </marker>
+    <marker id="aK" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#2A2622"></path>
+    </marker>
+    <marker id="aM" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#8A867C"></path>
+    </marker>
+    <marker id="aMx" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#8A867C"></path>
+    </marker>
+    <marker id="aG" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#2E7D5B"></path>
+    </marker>
+    <marker id="aO" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#B07A22"></path>
+    </marker>
+
+    <g id="p">
+      <circle cx="0" cy="-7" r="2.6" fill="#2A2622"></circle>
+      <path d="M-3.6,-3.6 C-3.6,-5 -2.4,-5.2 -2,-5.2 L2,-5.2 C2.4,-5.2 3.6,-5 3.6,-3.6 L3.2,1.2 L2,7.6 L-2,7.6 L-3.2,1.2 Z" fill="#2A2622"></path>
+    </g>
+
+    <g id="s">
+      <path d="M2,2 L4,0 L14,0 L16,2 L16,9 L14,11 L4,11 L2,9 Z" fill="#B8B0A3" stroke="#5C564E" stroke-width="0.6" stroke-linejoin="round"></path>
+      <path d="M4,0 L14,0 L16,2 L2,2 Z" fill="#D4CCBE"></path>
+    </g>
+
+    <g id="menhir-m">
+      <polygon points="-7,0 -7,-38 -5,-44 -2,-47 2,-46 5,-43 7,-36 7,0" fill="#B8B0A3" stroke="#5C564E" stroke-width="0.8" stroke-linejoin="round"></polygon>
+      <polygon points="-2,-47 2,-46 5,-43 4,-42 1,-44 -2,-44" fill="#D4CCBE"></polygon>
+    </g>
+    <g id="menhir-xxl">
+      <polygon points="-12,0 -12,-80 -8,-90 -4,-96 2,-98 6,-94 10,-86 12,-72 12,0" fill="#B8B0A3" stroke="#5C564E" stroke-width="1" stroke-linejoin="round"></polygon>
+      <polygon points="-4,-96 2,-98 6,-94 5,-91 1,-95 -4,-93" fill="#D4CCBE"></polygon>
+    </g>
+
+    
+    <g id="mon-mini">
+      <use xlink:href="#s" x="-40" y="-10"></use>
+      <use xlink:href="#s" x="-24" y="-11"></use>
+      <use xlink:href="#s" x="-8" y="-10"></use>
+      <use xlink:href="#s" x="8" y="-11"></use>
+      <use xlink:href="#s" x="22" y="-10"></use>
+      <use xlink:href="#s" x="-32" y="-21"></use>
+      <use xlink:href="#s" x="-16" y="-22"></use>
+      <use xlink:href="#s" x="0" y="-21"></use>
+      <use xlink:href="#s" x="16" y="-22"></use>
+      <use xlink:href="#menhir-m" x="-1" y="0"></use>
+      <line x1="-48" y1="0" x2="48" y2="0" stroke="#5C564E" stroke-width="0.6"></line>
+    </g>
+
+    
+    <g id="mon-big">
+      
+      <use xlink:href="#s" x="-90" y="-10" transform="rotate(-3 -82 -4.5)"></use>
+      <use xlink:href="#s" x="-74" y="-12" transform="rotate(2 -66 -6.5)"></use>
+      <use xlink:href="#s" x="-58" y="-10" transform="rotate(-2 -50 -4.5)"></use>
+      <use xlink:href="#s" x="-42" y="-12" transform="rotate(4 -34 -6.5)"></use>
+      <use xlink:href="#s" x="-26" y="-10" transform="rotate(-3 -18 -4.5)"></use>
+      <use xlink:href="#s" x="-10" y="-12" transform="rotate(3 -2 -6.5)"></use>
+      <use xlink:href="#s" x="6" y="-10" transform="rotate(-4 14 -4.5)"></use>
+      <use xlink:href="#s" x="22" y="-12" transform="rotate(2 30 -6.5)"></use>
+      <use xlink:href="#s" x="38" y="-10" transform="rotate(-2 46 -4.5)"></use>
+      <use xlink:href="#s" x="54" y="-11" transform="rotate(3 62 -5.5)"></use>
+      <use xlink:href="#s" x="70" y="-12" transform="rotate(-3 78 -6.5)"></use>
+      
+      <use xlink:href="#s" x="-82" y="-21" transform="rotate(4 -74 -15.5)"></use>
+      <use xlink:href="#s" x="-66" y="-23" transform="rotate(-3 -58 -17.5)"></use>
+      <use xlink:href="#s" x="-50" y="-20" transform="rotate(2 -42 -14.5)"></use>
+      <use xlink:href="#s" x="-34" y="-22" transform="rotate(-4 -26 -16.5)"></use>
+      <use xlink:href="#s" x="-18" y="-21" transform="rotate(3 -10 -15.5)"></use>
+      <use xlink:href="#s" x="-2" y="-23" transform="rotate(-2 6 -17.5)"></use>
+      <use xlink:href="#s" x="14" y="-20" transform="rotate(4 22 -14.5)"></use>
+      <use xlink:href="#s" x="30" y="-22" transform="rotate(-3 38 -16.5)"></use>
+      <use xlink:href="#s" x="46" y="-21" transform="rotate(2 54 -15.5)"></use>
+      <use xlink:href="#s" x="62" y="-22" transform="rotate(-4 70 -16.5)"></use>
+      
+      <use xlink:href="#s" x="-74" y="-31" transform="rotate(-2 -66 -25.5)"></use>
+      <use xlink:href="#s" x="-58" y="-33" transform="rotate(3 -50 -27.5)"></use>
+      <use xlink:href="#s" x="-42" y="-31" transform="rotate(-4 -34 -25.5)"></use>
+      <use xlink:href="#s" x="-26" y="-33" transform="rotate(2 -18 -27.5)"></use>
+      <use xlink:href="#s" x="-10" y="-31" transform="rotate(-3 -2 -25.5)"></use>
+      <use xlink:href="#s" x="6" y="-33" transform="rotate(4 14 -27.5)"></use>
+      <use xlink:href="#s" x="22" y="-31" transform="rotate(-2 30 -25.5)"></use>
+      <use xlink:href="#s" x="38" y="-32" transform="rotate(3 46 -26.5)"></use>
+      <use xlink:href="#s" x="54" y="-31" transform="rotate(-3 62 -25.5)"></use>
+      
+      <use xlink:href="#s" x="-66" y="-42" transform="rotate(2 -58 -36.5)"></use>
+      <use xlink:href="#s" x="-50" y="-44" transform="rotate(-3 -42 -38.5)"></use>
+      <use xlink:href="#s" x="-34" y="-42" transform="rotate(4 -26 -36.5)"></use>
+      <use xlink:href="#s" x="-18" y="-44" transform="rotate(-2 -10 -38.5)"></use>
+      <use xlink:href="#s" x="-2" y="-42" transform="rotate(3 6 -36.5)"></use>
+      <use xlink:href="#s" x="14" y="-44" transform="rotate(-4 22 -38.5)"></use>
+      <use xlink:href="#s" x="30" y="-42" transform="rotate(2 38 -36.5)"></use>
+      <use xlink:href="#s" x="46" y="-43" transform="rotate(-3 54 -37.5)"></use>
+      
+      <use xlink:href="#s" x="-58" y="-53" transform="rotate(3 -50 -47.5)"></use>
+      <use xlink:href="#s" x="-42" y="-55" transform="rotate(-2 -34 -49.5)"></use>
+      <use xlink:href="#s" x="-26" y="-53" transform="rotate(4 -18 -47.5)"></use>
+      <use xlink:href="#s" x="-10" y="-55" transform="rotate(-3 -2 -49.5)"></use>
+      <use xlink:href="#s" x="6" y="-53" transform="rotate(2 14 -47.5)"></use>
+      <use xlink:href="#s" x="22" y="-55" transform="rotate(-4 30 -49.5)"></use>
+      <use xlink:href="#s" x="38" y="-53" transform="rotate(3 46 -47.5)"></use>
+      
+      <use xlink:href="#menhir-xxl" x="-2" y="0"></use>
+      <line x1="-110" y1="0.5" x2="110" y2="0.5" stroke="#5C564E" stroke-width="0.6"></line>
+    </g>
+  </defs>
+
+  <g transform="translate(60 0)">
+
+  
+  <g id="L1">
+    <rect x="70" y="50" width="760" height="205" rx="10" fill="#FFFFFF" stroke="#9A958B" stroke-width="1"></rect>
+    <path d="M70,60 q0,-10 10,-10 h740 q10,0 10,10 v34 H70 Z" fill="#F4F2ED"></path>
+
+    
+    <text x="92" y="70" font-size="12" font-weight="700" letter-spacing="1.4" fill="#5C564E">LAYER 1</text>
+    <text x="92" y="86" font-size="14" font-weight="600" fill="#2A2622">Within-group signaling</text>
+
+    <text x="450" y="115" font-size="12.5" fill="#3F3D38" text-anchor="middle">
+      Each construction act is a costly, publicly witnessed contribution:
+    </text>
+    <text x="450" y="130" font-size="12.5" fill="#3F3D38" text-anchor="middle">
+      a credibility-enhancing display (CRED).
+    </text>
+
+    
+
+    
+    <text x="138" y="186" font-size="11" font-style="italic" fill="#5C564E" text-anchor="middle">private capacity <tspan font-weight="600">q</tspan></text>
+    <text x="138" y="199" font-size="10.5" font-style="italic" fill="#5C564E" text-anchor="middle">hidden; figures identical</text>
+    <path d="M150,205 C172,213 188,217 202,221" fill="none" stroke="#8A867C" stroke-width="0.7" stroke-dasharray="2.5,2" marker-end="url(#aM)"></path>
+
+    
+    <g>
+      <use xlink:href="#p" x="210" y="224"></use>
+      <use xlink:href="#p" x="310" y="224"></use>
+      <use xlink:href="#p" x="410" y="224"></use>
+      <use xlink:href="#p" x="510" y="224"></use>
+      <use xlink:href="#p" x="610" y="224"></use>
+    </g>
+
+    
+    <g>
+      <use xlink:href="#s" x="224" y="221"></use>
+
+      <use xlink:href="#s" x="324" y="221"></use>
+      <use xlink:href="#s" x="324" y="209"></use>
+
+      <use xlink:href="#s" x="424" y="221"></use>
+      <use xlink:href="#s" x="424" y="209"></use>
+      <use xlink:href="#s" x="424" y="197"></use>
+
+      <use xlink:href="#s" x="524" y="221"></use>
+      <use xlink:href="#s" x="524" y="209"></use>
+      <use xlink:href="#s" x="524" y="197"></use>
+      <use xlink:href="#s" x="524" y="185"></use>
+
+      <use xlink:href="#s" x="624" y="221"></use>
+      <use xlink:href="#s" x="624" y="209"></use>
+      <use xlink:href="#s" x="624" y="197"></use>
+      <use xlink:href="#s" x="624" y="185"></use>
+      <use xlink:href="#s" x="624" y="173"></use>
+    </g>
+
+    
+    <line x1="190" y1="234" x2="660" y2="234" stroke="#9A958B" stroke-width="0.7"></line>
+
+    
+    <text x="450" y="158" font-size="11.5" font-style="italic" fill="#5C564E" text-anchor="middle">
+      Contribution scales with capacity (Spence separating equilibrium)
+    </text>
+  </g>
+
+  
+  
+  <g stroke="#5C564E" stroke-width="0.7" opacity="0.45" fill="none">
+    <line x1="220" y1="238" x2="450" y2="288"></line>
+    <line x1="320" y1="238" x2="450" y2="288"></line>
+    <line x1="420" y1="238" x2="450" y2="288"></line>
+    <line x1="520" y1="238" x2="450" y2="288"></line>
+    <line x1="620" y1="238" x2="450" y2="288"></line>
+  </g>
+  <path d="M450,288 L450,314" fill="none" stroke="#2A2622" stroke-width="1.8" marker-end="url(#aK)"></path>
+  <text x="436" y="305" font-size="11.5" font-style="italic" fill="#5C564E" text-anchor="end">
+    construction acts accumulate
+  </text>
+
+  
+  <g transform="translate(450 445)">
+    <use xlink:href="#mon-big"></use>
+  </g>
+
+  <text x="450" y="475" font-size="15" font-weight="700" fill="#2A2622" text-anchor="middle">
+    Monument <tspan font-style="italic" font-weight="400">M</tspan><tspan font-style="italic" font-weight="400" font-size="11" baseline-shift="sub">g</tspan>
+  </text>
+  <text x="450" y="491" font-size="12" font-style="italic" fill="#5C564E" text-anchor="middle">
+    accumulated evidence of collective construction
+  </text>
+
+  
+  <text x="700" y="350" font-size="11.5" font-style="italic" fill="#5C564E">peers see it,</text>
+  <text x="700" y="363" font-size="11.5" font-style="italic" fill="#5C564E">positional reward β₀</text>
+  <path d="M695,358 C650,360 585,382 518,400" fill="none" stroke="#5C564E" stroke-width="0.9" stroke-dasharray="3,3" marker-end="url(#aM)"></path>
+
+  
+  
+  <path d="M372,427 C312,477 262,522 240,562" fill="none" stroke="#B5563F" stroke-width="1.8" marker-end="url(#aT)"></path>
+  <text x="195" y="492" font-size="11.5" font-style="italic" fill="#B5563F" text-anchor="middle">rivals read it</text>
+
+  
+  <path d="M528,427 C588,477 638,522 660,562" fill="none" stroke="#2E5C8A" stroke-width="1.8" marker-end="url(#aB)"></path>
+  <text x="705" y="492" font-size="11.5" font-style="italic" fill="#2E5C8A" text-anchor="middle">partners read it</text>
+
+  
+  <g id="L2a">
+    <rect x="70" y="577" width="370" height="220" rx="10" fill="#FFFFFF" stroke="#B5563F" stroke-width="1.1"></rect>
+    <path d="M70,587 q0,-10 10,-10 h350 q10,0 10,10 v34 H70 Z" fill="#F4E5DF"></path>
+
+    <text x="92" y="597" font-size="12" font-weight="700" letter-spacing="1.4" fill="#7A3525">LAYER 2</text>
+    <text x="92" y="613" font-size="14" font-weight="600" fill="#7A3525">Competition</text>
+
+    <text x="255" y="640" font-size="11.5" fill="#3F3D38" text-anchor="middle">
+      A rival assesses the group&#39;s strength
+    </text>
+    <text x="255" y="654" font-size="11.5" fill="#3F3D38" text-anchor="middle">
+      and judges a fight too costly to risk.
+    </text>
+
+    <g transform="translate(255 702)">
+      <g transform="scale(0.35)">
+        <use xlink:href="#mon-mini"></use>
+      </g>
+      
+      <use xlink:href="#p" x="-58" y="-3"></use>
+      <use xlink:href="#p" x="-46" y="-3"></use>
+      
+      <use xlink:href="#p" x="68" y="-3"></use>
+      <use xlink:href="#p" x="80" y="-3"></use>
+      
+      <path d="M64,-14 L40,-14" fill="none" stroke="#B5563F" stroke-width="1.5" marker-end="url(#aT)"></path>
+      <path d="M30,-20 L30,-8" fill="none" stroke="#B5563F" stroke-width="2.2" stroke-linecap="round"></path>
+      
+      <text x="-29" y="15" font-size="10.5" font-style="italic" fill="#5C564E" text-anchor="middle">home group</text>
+      <text x="74" y="15" font-size="10.5" font-style="italic" fill="#7A3525" text-anchor="middle">rivals</text>
+    </g>
+
+    <rect x="95" y="745" width="320" height="42" rx="6" fill="#B5563F"></rect>
+    <text x="255" y="764" font-size="12.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">
+      Conflict between groups falls
+    </text>
+    <text x="255" y="778" font-size="11" font-style="italic" fill="#F4E5DF" text-anchor="middle">
+      war-avoidance fraction r &gt; 0
+    </text>
+  </g>
+
+  <g id="L2b">
+    <rect x="460" y="577" width="370" height="220" rx="10" fill="#FFFFFF" stroke="#2E5C8A" stroke-width="1.1"></rect>
+    <path d="M460,587 q0,-10 10,-10 h350 q10,0 10,10 v34 H460 Z" fill="#E3ECF4"></path>
+
+    <text x="482" y="597" font-size="12" font-weight="700" letter-spacing="1.4" fill="#244360">LAYER 3</text>
+    <text x="482" y="613" font-size="14" font-weight="600" fill="#244360">Cooperation</text>
+
+    <text x="645" y="640" font-size="11.5" fill="#3F3D38" text-anchor="middle">
+      Partners see a reliable group;
+    </text>
+    <text x="645" y="654" font-size="11.5" fill="#3F3D38" text-anchor="middle">
+      exchange and alliance ties form.
+    </text>
+
+    <g transform="translate(645 702)">
+      <g transform="scale(0.35)">
+        <use xlink:href="#mon-mini"></use>
+      </g>
+      <use xlink:href="#p" x="-78" y="-3"></use>
+      <use xlink:href="#p" x="-66" y="-3"></use>
+      <use xlink:href="#p" x="66" y="-3"></use>
+      <use xlink:href="#p" x="78" y="-3"></use>
+      
+      <path d="M-52,-22 Q0,-40 52,-22" fill="none" stroke="#2E5C8A" stroke-width="1.6" marker-start="url(#aBs)" marker-end="url(#aB)"></path>
+      <rect x="-3" y="-38" width="6" height="5" rx="0.6" fill="#B8B0A3" stroke="#5C564E" stroke-width="0.4"></rect>
+      
+      <text x="-72" y="15" font-size="10.5" font-style="italic" fill="#5C564E" text-anchor="middle">home group</text>
+      <text x="72" y="15" font-size="10.5" font-style="italic" fill="#244360" text-anchor="middle">partners</text>
+    </g>
+
+    <rect x="485" y="745" width="320" height="42" rx="6" fill="#2E5C8A"></rect>
+    <text x="645" y="764" font-size="12.5" font-weight="700" fill="#FFFFFF" text-anchor="middle">
+      Cooperation networks buffer crises
+    </text>
+    <text x="645" y="778" font-size="11" font-style="italic" fill="#E3ECF4" text-anchor="middle">
+      survival differential <tspan>α</tspan><tspan font-size="8.5" baseline-shift="sub">eff</tspan> &lt; <tspan>β</tspan><tspan font-size="8.5" baseline-shift="sub">eff</tspan>
+    </text>
+  </g>
+
+  
+  <g stroke="#2A2622" stroke-width="0.9" fill="none">
+    <path d="M255,797 L255,822 L645,822 L645,797"></path>
+    <path d="M450,822 L450,840" marker-end="url(#aK)"></path>
+  </g>
+
+  
+  <rect x="70" y="847" width="760" height="50" rx="10" fill="#FBF6E9" stroke="#CBB97F" stroke-width="1.1"></rect>
+  <text x="450" y="869" font-size="13" font-weight="700" fill="#34342E" text-anchor="middle">
+    Monuments arise from individual signaling within groups, not from coercion or group-level selection.
+  </text>
+  <text x="450" y="886" font-size="11.5" fill="#4A4A42" text-anchor="middle">
+    Within-group peer rewards drive construction; between-group audiences add deterrence and exchange benefits.
+  </text>
+
+  
+  <g stroke="#2E7D5B" fill="none" stroke-width="1.6">
+    <path d="M56,556 C40,470 40,330 56,262" marker-start="url(#aG)" marker-end="url(#aG)"></path>
+  </g>
+  <text x="-6" y="382" text-anchor="middle" font-size="11.5" font-weight="700" fill="#2E7D5B">Environmental</text>
+  <text x="-6" y="396" text-anchor="middle" font-size="11.5" font-weight="700" fill="#2E7D5B">uncertainty</text>
+  <text x="-6" y="412" text-anchor="middle" font-size="10.5" font-style="italic" fill="#2E7D5B">raises the value</text>
+  <text x="-6" y="424" text-anchor="middle" font-size="10.5" font-style="italic" fill="#2E7D5B">of deterrence</text>
+  <text x="-6" y="436" text-anchor="middle" font-size="10.5" font-style="italic" fill="#2E7D5B">and cooperation</text>
+
+  <g stroke="#B07A22" fill="none" stroke-width="1.6">
+    <path d="M832,690 C880,640 880,360 874,300 C868,250 882,212 834,208" marker-end="url(#aO)"></path>
+  </g>
+  <text x="800" y="284" font-size="11.5" font-weight="700" fill="#B07A22" text-anchor="middle">Reinforcement</text>
+  <text x="800" y="298" font-size="10.5" font-style="italic" fill="#B07A22" text-anchor="middle">Layer 2 and 3 benefits raise</text>
+  <text x="800" y="310" font-size="10.5" font-style="italic" fill="#B07A22" text-anchor="middle">group fitness, sustaining</text>
+  <text x="800" y="322" font-size="10.5" font-style="italic" fill="#B07A22" text-anchor="middle">the practice</text>
+
+  </g>
+</svg>
